@@ -11,7 +11,7 @@ $access_secret = ""; //Your Access SECRET
 $default_associate_tag 	= ""; //Your Associate Tag, same as Tracking ID
 ```
 
-You can also add your Tracking IDs (if you have) for each country separately, in this version following countries are supported:
+You can also add your Tracking IDs for each country separately (if you have), in this version following countries are supported:
 - US
 - DE
 - UK
