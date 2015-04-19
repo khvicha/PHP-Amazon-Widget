@@ -1,4 +1,16 @@
 <?PHP
+/**
+ * PHP Amazon Class
+ *
+ * @package 	KC
+ * @subpackage 	External Library
+ * @category 	Affiliates
+ * @author		Khvicha Chikhladze  (github.khvicha@gmail.com)
+ * @version		1.0.0
+ *
+ */
+
+
 
 class kc__AFF_AMAZON {
 	private $ACCESS_KEY;
