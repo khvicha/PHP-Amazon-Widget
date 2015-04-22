@@ -30,7 +30,7 @@ $result_html = kc_aws_get_widget("PC Tools", 4, "US");
 echo $result_html;
 ```
 
-**kc_aws_get_widget()** function need 3 parameters:
+**kc_aws_get_widget()** function needs 3 parameters:
 - Search Criteria
 - Number of Widgets
 - Country Code
