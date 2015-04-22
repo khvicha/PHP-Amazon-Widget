@@ -22,7 +22,7 @@ You can also add your Tracking IDs for each country separately (if you have), in
 
 
 ## Usage
-This script is very simple to use, just put this code in your HTML file where you want to show Widget:
+It is very simple to use, just put this code in your HTML file where you want to show Widget:
 
 ```php
 include "kc_amazon_widget.php";
